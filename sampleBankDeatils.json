@@ -1,0 +1,58 @@
+{
+  "customers": [
+    {
+      "id": 1,
+      "name": "John Doe",
+      "accountNumber": "1234567890",
+      "balance": 5000.00,
+      "transactions": [
+        {
+          "date": "2023-11-01",
+          "description": "Deposit",
+          "amount": 1000.00
+        },
+        {
+          "date": "2023-11-05",
+          "description": "Withdrawal",
+          "amount": -500.00
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "name": "Jane Smith",
+      "accountNumber": "9876543210",
+      "balance": 7500.00,
+      "transactions": [
+        {
+          "date": "2023-11-02",
+          "description": "Deposit",
+          "amount": 2000.00
+        },
+        {
+          "date": "2023-11-07",
+          "description": "Withdrawal",
+          "amount": -1000.00
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "name": "Alice Johnson",
+      "accountNumber": "2468135790",
+      "balance": 3000.00,
+      "transactions": [
+        {
+          "date": "2023-11-03",
+          "description": "Deposit",
+          "amount": 1500.00
+        },
+        {
+          "date": "2023-11-09",
+          "description": "Withdrawal",
+          "amount": -700.00
+        }
+      ]
+    }
+  ]
+}
